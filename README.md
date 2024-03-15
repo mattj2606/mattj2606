@@ -15,13 +15,6 @@ Welcome to my GitHub profile! I'm a third-year undergraduate student at Rutgers 
 - **Tools & Platforms:** Google Colab, Jupyter Notebooks, SQL, Tableau
 - **Areas of Interest:** Machine Learning, Natural Language Processing (NLP), TensorFlow, User Analytics, Financial Modeling
 
-## Projects
-
-Here are some projects I'm particularly proud of. Please feel free to explore the repositories and reach out if you have questions or want to collaborate!
-
-- **Project 1:** [Project Name](Project URL) - NULL.
-- **Project 2:** [Project Name](Project URL) - NULL.
-
 ## Connect With Me
 
 - **LinkedIn:** [https://linkedin.com/in/myankovsky/](https://linkedin.com/in/myankovsky/)
